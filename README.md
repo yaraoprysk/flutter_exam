@@ -1,4 +1,4 @@
-# flutter_exam
+# exam
 
 A new Flutter project.
 
